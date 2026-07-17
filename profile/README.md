@@ -5,18 +5,18 @@
   <img src="moth-light.svg" width="96" alt="OpenChara">
 </picture>
 
-## Give your original character a computer to live in.
+## Build stuff with your characters.
 
-*给你的原创角色一台可以住进去的电脑。*
+*和你的角色一起做东西。*
 
-**OpenCharaAgent** is an open-source runtime that turns a character card
-(SillyTavern-compatible) into a persistent autonomous being — with its own
-sandbox, memory, and pace of life. Your character works between your messages
-and decides for itself when something is worth telling you.
+**OpenCharaAgent** is an open source AI roleplay agent harness. One click builds
+an autonomous character agent that creates with you. Websites, code, music,
+videos, drawings, stories. Runs any SillyTavern card, deploys in one command,
+works in a phone browser.
 
-**OpenCharaAgent** 是一个开源运行时：把一张角色卡（兼容 SillyTavern）
-变成一个持续存在的自主生命体 —— 拥有自己的沙盒、记忆与生活节奏，
-在你的消息之间独自生活与工作，并自己决定何时开口。
+**OpenCharaAgent** 是开源 AI 角色扮演 Agent Harness，一键构建自主运行的角色智能体，
+它和你一起创作，建网站、写代码、做音乐、剪视频、画画、写小说。
+兼容 SillyTavern 角色卡，一键部署，兼容手机浏览器。
 
 ### [→ OpenChara/OpenCharaAgent](https://github.com/OpenChara/OpenCharaAgent)
 
