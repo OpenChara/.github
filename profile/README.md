@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="moth.svg" width="96" alt="OpenChara" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="moth-dark.svg">
+  <img src="moth-light.svg" width="96" alt="OpenChara">
+</picture>
 
 ## Give your original character a computer to live in.
 
