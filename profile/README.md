@@ -5,9 +5,9 @@
   <img src="moth-light.svg" width="96" alt="OpenChara">
 </picture>
 
-## Build stuff with your characters.
+## Create with your characters.
 
-*和你的角色一起做东西。*
+*和你的角色一起创作。*
 
 **OpenCharaAgent** is an open source AI roleplay agent harness. One click builds
 an autonomous character agent that creates with you. Websites, code, music,
